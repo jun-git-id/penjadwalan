@@ -6,15 +6,15 @@
 		<div class="papan well ">
 			<div style="text-align:center;">
 				<h1>&gscr;&Lscr;us&escr;</h1>
-				<p><b>G</b>enetics a<b>L</b>gorithm on lect<b>U</b>re <b>S</b>ch<b>E</b>duling</p>
+				<p><b>Penjadwalan dengan Algoritma Genetika</b></p>
 			</div>
 
 			<!-- <div class="alert alert-info infoapp span4" style="margin-left:34%;">
 				<ul>
-					<li>NIM : 12/336144/PA/15079</li>
-					<li>Nama : Eko Budi Prasetyo</li>
-					<li>Studi : Ilmu Komputer, JIKE, MIPA, UGM</li>
-					<li>Tahun : 2014</li>
+					<li>NIM : </li>
+					<li>Nama : Sri</li>
+					<li>Studi : Ilmu Komputer</li>
+					<li>Tahun : 2018</li>
 				<ul>
 			</div> -->
 
